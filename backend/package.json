@@ -1,0 +1,29 @@
+{
+  "name": "oss-assistant",
+  "version": "1.0.0",
+  "description": "Oss-assistant",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon --exec \"node --env-file=.env\" src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubhamharbola/Oss-assistant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Shubhamharbola/Oss-assistant/issues"
+  },
+  "homepage": "https://github.com/Shubhamharbola/Oss-assistant#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}

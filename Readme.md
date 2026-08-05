@@ -1,5 +1,4 @@
 Oss-assistant
-# Project Name
 
 Helping developers make their first meaningful open-source contribution.
 
@@ -19,7 +18,7 @@ This project is my attempt to understand that problem and build a tool that make
 
 ## Current Status
 
-🚧 Research Phase
+ Research Phase
 
 ## Roadmap
 
